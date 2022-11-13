@@ -1,12 +1,12 @@
 # guides
 Guides pour divers logiciels que j'utilise
 
-[autocad](/autocad)
+[autocad](./autocad)
 
 https://theophiledesmedt.github.io/guides/autocad
 
 
 
-[microstation](/microstation)
+[microstation](./microstation)
 
 https://theophiledesmedt.github.io/guides/microstation
