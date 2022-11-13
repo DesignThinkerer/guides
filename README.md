@@ -1,12 +1,4 @@
-# guides
-Guides pour divers logiciels que j'utilise.
+# Guides
 
-[autocad](./autocad)
-
-https://theophiledesmedt.github.io/guides/autocad
-
-
-
-[microstation](./microstation)
-
-https://theophiledesmedt.github.io/guides/microstation
+* [autocad](./autocad)
+* [microstation](./microstation)
