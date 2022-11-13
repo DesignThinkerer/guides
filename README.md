@@ -1,5 +1,5 @@
 # guides
-Guides pour divers logiciels que j'utilise
+Guides pour divers logiciels que j'utilise.
 
 [autocad](./autocad)
 
