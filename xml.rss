@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <atom:link href="https://.github.io/files/xml.rss" rel="self" type="application/rss+xml" />
+  <title>RSS wizard</title>
+  <link>https://.github.ioindex.html</link>
+  <description>a non-linear personal web notebook</description>
+  <language>en-GB</language>
+  <lastBuildDate>Mon, 08 Nov 2021 21:32:28 GMT</lastBuildDate>
+	<item>
+      <title>New Tiddler</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2060%2030%22%20width%3D%221200%22%20height%3D%22600%22%3E%0A%3CclipPath%20id%3D%22t%22%3E%0A%09%3Cpath%20d%3D%22M30%2C15%20h30%20v15%20z%20v15%20h-30%20z%20h-30%20v-15%20z%20v-15%20h30%20z%22%2F%3E%0A%3C%2FclipPath%3E%0A%3Cpath%20d%3D%22M0%2C0%20v30%20h60%20v-30%20z%22%20fill%3D%22%2300247d%22%2F%3E%0A%3Cpath%20d%3D%22M0%2C0%20L60%2C30%20M60%2C0%20L0%2C30%22%20stroke%3D%22%23fff%22%20stroke-width%3D%226%22%2F%3E%0A%3Cpath%20d%3D%22M0%2C0%20L60%2C30%20M60%2C0%20L0%2C30%22%20clip-path%3D%22url(%23t)%22%20stroke%3D%22%23cf142b%22%20stroke-width%3D%224%22%2F%3E%0A%3Cpath%20d%3D%22M30%2C0%20v30%20M0%2C15%20h60%22%20stroke%3D%22%23fff%22%20stroke-width%3D%2210%22%2F%3E%0A%3Cpath%20d%3D%22M30%2C0%20v30%20M0%2C15%20h60%22%20stroke%3D%22%23cf142b%22%20stroke-width%3D%226%22%2F%3E%0A%3C%2Fsvg%3E%0A"></p>]]></content:encoded>
+	  <pubDate>Mon, 08 Nov 2021 21:32:28 GMT</pubDate>
+      <link>https://.github.ioindex.html#New%20Tiddler</link>
+      <guid isPermaLink='true'>https://.github.ioindex.html#New%20Tiddler</guid>
+   </item>
+</channel>
+</rss>
