@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" it-message="{&quot;blur&quot;:true} "><script xmlns=""/>
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCUaHJ0fTA-1theR8A8Polmw"/>
+ <id>yt:channel:</id>
+ <yt:channelId/>
+ <title>Tech &amp; Co</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw"/>
+ <author>
+  <name>Tech &amp; Co</name>
+  <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+ </author>
+ <published>2007-07-02T14:52:58+00:00</published>
+ <entry>
+  <id>yt:video:4o0L4yzGlsM</id>
+  <yt:videoId>4o0L4yzGlsM</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Apple veut relocaliser sa production de puces en Europe et aux Etats-Unis</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4o0L4yzGlsM"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-17T17:23:27+00:00</published>
+  <updated>2022-11-17T17:26:25+00:00</updated>
+  <media:group>
+   <media:title>Apple veut relocaliser sa production de puces en Europe et aux Etats-Unis</media:title>
+   <media:content url="https://www.youtube.com/v/4o0L4yzGlsM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4o0L4yzGlsM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>"Une nouvelle étape dans sa stratégie de diversification de ses approvisionnements" - Simon Tenenbaum</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="217"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NoMJm0cE7Ns</id>
+  <yt:videoId>NoMJm0cE7Ns</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>.@Ubisoft et @RiotGamesFrance utilisent l'IA pour modérer les commentaires sur les jeux en ligne</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NoMJm0cE7Ns"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T20:45:53+00:00</published>
+  <updated>2022-11-17T08:08:14+00:00</updated>
+  <media:group>
+   <media:title>.@Ubisoft et @RiotGamesFrance utilisent l'IA pour modérer les commentaires sur les jeux en ligne</media:title>
+   <media:content url="https://www.youtube.com/v/NoMJm0cE7Ns?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NoMJm0cE7Ns/hqdefault.jpg" width="480" height="360"/>
+   <media:description>" 'Zéro dommage dans les commentaires' est capable de détecter automatiquement tous les commentaires violents et de sanctionner les comportements inadaptés" Louis Mbembe</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="804"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UsIw9ryoHhI</id>
+  <yt:videoId>UsIw9ryoHhI</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Le quantique est bien développé en France</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UsIw9ryoHhI"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T20:31:37+00:00</published>
+  <updated>2022-11-17T07:55:27+00:00</updated>
+  <media:group>
+   <media:title>Le quantique est bien développé en France</media:title>
+   <media:content url="https://www.youtube.com/v/UsIw9ryoHhI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UsIw9ryoHhI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>🗨️"D'une manière très générale, les scientifiques dans le domaine de la quantique en France, en physique, en informatique, en algorithmie, sont excellents." Valérian Giesz</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="687"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uXWNHDwLleE</id>
+  <yt:videoId>uXWNHDwLleE</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Don de chaleur aide des associations grâce aux kWh économisés</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uXWNHDwLleE"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T19:47:48+00:00</published>
+  <updated>2022-11-17T17:45:45+00:00</updated>
+  <media:group>
+   <media:title>Don de chaleur aide des associations grâce aux kWh économisés</media:title>
+   <media:content url="https://www.youtube.com/v/uXWNHDwLleE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uXWNHDwLleE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>"Nous on reverse des dons à des projets associatifs qui aident des personnes à avoir un peu plus chaud cet hiver" Matthieu Sattler</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="414"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AtVR8XFuW9I</id>
+  <yt:videoId>AtVR8XFuW9I</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>.@Snapchat travaille avec le @CentrePompidou sur la réalité augmentée</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AtVR8XFuW9I"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T19:36:14+00:00</published>
+  <updated>2022-11-17T08:37:18+00:00</updated>
+  <media:group>
+   <media:title>.@Snapchat travaille avec le @CentrePompidou sur la réalité augmentée</media:title>
+   <media:content url="https://www.youtube.com/v/AtVR8XFuW9I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AtVR8XFuW9I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>"On va être un centre de formation. On va organiser des cours gratuits pour tous ceux qui veulent se perfectionner ou commencer à apprendre la réalité augmentée. Ça sera un métier" Donatien Bozon</media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="669"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_ePE9runCQs</id>
+  <yt:videoId>_ePE9runCQs</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>.@airbnb_fr annonce de nouvelles mesures et Airbnb Start</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_ePE9runCQs"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T19:24:04+00:00</published>
+  <updated>2022-11-17T08:20:30+00:00</updated>
+  <media:group>
+   <media:title>.@airbnb_fr annonce de nouvelles mesures et Airbnb Start</media:title>
+   <media:content url="https://www.youtube.com/v/_ePE9runCQs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_ePE9runCQs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>"Réassurance avec AirCover (de 1 à 3M€) et simplification avec Airbnb Start" Bertrand Brudet</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="741"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UZgBf4xFAwc</id>
+  <yt:videoId>UZgBf4xFAwc</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Une potentielle vague de licenciement chez @Google</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UZgBf4xFAwc"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T19:14:21+00:00</published>
+  <updated>2022-11-17T15:28:15+00:00</updated>
+  <media:group>
+   <media:title>Une potentielle vague de licenciement chez @Google</media:title>
+   <media:content url="https://www.youtube.com/v/UZgBf4xFAwc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UZgBf4xFAwc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>"Google va devoir un peu se serrer la ceinture comme l'ensemble de la Tech" Frédéric Bianchi et Erwan Morice</media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="832"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zZLuxO0cWUM</id>
+  <yt:videoId>zZLuxO0cWUM</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Vrai ou Faux : la 5G est-elle vraiment utile ?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zZLuxO0cWUM"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T14:37:47+00:00</published>
+  <updated>2022-11-16T14:39:33+00:00</updated>
+  <media:group>
+   <media:title>Vrai ou Faux : la 5G est-elle vraiment utile ?</media:title>
+   <media:content url="https://www.youtube.com/v/zZLuxO0cWUM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zZLuxO0cWUM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Un expert du Labo Fnac vient débunker des idées reçues sur les nouvelles technologies dans Vrai ou Faux. Dans cet épisode, Lionel Costa nous éclaire sur la 5G et son utilité.</media:description>
+   <media:community>
+    <media:starRating count="79" average="5.00" min="1" max="5"/>
+    <media:statistics views="1541"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HzkpkwMRxe0</id>
+  <yt:videoId>HzkpkwMRxe0</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Tech&amp;Co Fnac Darty Awards : la remise des prix</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HzkpkwMRxe0"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-16T10:46:53+00:00</published>
+  <updated>2022-11-17T08:44:40+00:00</updated>
+  <media:group>
+   <media:title>Tech&amp;Co Fnac Darty Awards : la remise des prix</media:title>
+   <media:content url="https://www.youtube.com/v/HzkpkwMRxe0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HzkpkwMRxe0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Après 5 semaines de Labo Weeks, les résultats des meilleurs produits high-tech de l'année sont annoncés ce soir en direct sur Tech&amp;Co. Meilleur casque audio, TV, smartphone, produit durable... Jérôme Colombain et François Sorel dévoilent le palmarès dès 19h en direct.
+
+Abonnez-vous ► http://bit.ly/1GasHfn
+La chaîne YouTube de la rédaction de 01net.com ► http://bit.ly/2Dgiwha
+
+Toute l'actualité High-Tech à retrouver sur 01net.com
+http://bit.ly/2Dao0tW
+
+Retrouvez-nous sur les réseaux sociaux
+Facebook ► http://on.fb.me/1JUP9P7
+Twitter ► http://bit.ly/1R3mcB9
+
+Podcasts iTunes :
+   Vidéo HD ► https://itunes.apple.com/fr/podcast/01nettv-hd/id481475702?mt=2
+   Vidéo SD ► https://itunes.apple.com/fr/podcast/01nettv-sd/id265332941?mt=2 
+   Audio only ► https://itunes.apple.com/fr/podcast/01nettv-audio/id1263285030?mt=2 
+
+Podcasts RSS bruts :
+   Vidéo HD ► http://feeds.feedburner.com/01netTV-HD
+   Vidéo SD ► http://feeds.feedburner.com/01netTV-SD
+   Audio only ► http://feeds.feedburner.com/01netTV-Audio</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2Pnh_XKgBQ0</id>
+  <yt:videoId>2Pnh_XKgBQ0</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Cette année les BFM Awards ne sont pas seulement sous la pyramide du Louvre</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2Pnh_XKgBQ0"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-15T20:14:42+00:00</published>
+  <updated>2022-11-16T14:04:53+00:00</updated>
+  <media:group>
+   <media:title>Cette année les BFM Awards ne sont pas seulement sous la pyramide du Louvre</media:title>
+   <media:content url="https://www.youtube.com/v/2Pnh_XKgBQ0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2Pnh_XKgBQ0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Anthony Morel vous emmène faire un tour dans le métavers</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="1588"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zaQb2T3nc1A</id>
+  <yt:videoId>zaQb2T3nc1A</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Tech à Tête : Oppo présente sa nouvelle gamme, Reno8</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zaQb2T3nc1A"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-15T20:10:00+00:00</published>
+  <updated>2022-11-15T20:10:00+00:00</updated>
+  <media:group>
+   <media:title>Tech à Tête : Oppo présente sa nouvelle gamme, Reno8</media:title>
+   <media:content url="https://www.youtube.com/v/zaQb2T3nc1A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zaQb2T3nc1A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Les marques prennent la parole dans Tech à Tête. Dialogue avec Miguel Derennes sur les fondements de la marque et de leurs technos. David Chauvaud, chef de produit marketing OPPO France AED est sur le plateau.</media:description>
+   <media:community>
+    <media:starRating count="35" average="5.00" min="1" max="5"/>
+    <media:statistics views="1405"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MKui6Y7UA2k</id>
+  <yt:videoId>MKui6Y7UA2k</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Tech à Tête : Honor présente le Magic 4 Pro</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MKui6Y7UA2k"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-15T20:10:00+00:00</published>
+  <updated>2022-11-15T20:10:00+00:00</updated>
+  <media:group>
+   <media:title>Tech à Tête : Honor présente le Magic 4 Pro</media:title>
+   <media:content url="https://www.youtube.com/v/MKui6Y7UA2k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MKui6Y7UA2k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Les marques prennent la parole dans Tech à Tête. Dialogue avec Miguel Derennes sur les fondements de la marque et de leurs technos. Frédéric Gulesserian, directeur marketing de HONOR Technologies France.</media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="872"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NxHdE-91cc0</id>
+  <yt:videoId>NxHdE-91cc0</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Tech à Tête : Honor présente son smartphone, le Honor 70</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NxHdE-91cc0"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-15T20:05:00+00:00</published>
+  <updated>2022-11-15T20:05:00+00:00</updated>
+  <media:group>
+   <media:title>Tech à Tête : Honor présente son smartphone, le Honor 70</media:title>
+   <media:content url="https://www.youtube.com/v/NxHdE-91cc0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NxHdE-91cc0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Les marques prennent la parole dans Tech à Tête. Dialogue avec Miguel Derennes sur les fondements de la marque et de leurs technos. Frédéric Gulesserian, directeur commercial de Honor Technologies France, est sur le plateau.</media:description>
+   <media:community>
+    <media:starRating count="39" average="5.00" min="1" max="5"/>
+    <media:statistics views="1051"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HKVOYXzvZyg</id>
+  <yt:videoId>HKVOYXzvZyg</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Vrai ou Faux : un smartphone de qualité, c'est forcément cher !</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HKVOYXzvZyg"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-15T20:00:06+00:00</published>
+  <updated>2022-11-16T13:39:34+00:00</updated>
+  <media:group>
+   <media:title>Vrai ou Faux : un smartphone de qualité, c'est forcément cher !</media:title>
+   <media:content url="https://www.youtube.com/v/HKVOYXzvZyg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HKVOYXzvZyg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Un expert du Labo Fnac vient débunker des idées reçues sur les nouvelles technologies dans Vrai ou Faux. Dans cet épisode, Lionel Costa nous éclaire sur les smartphones de qualité et leur coût.</media:description>
+   <media:community>
+    <media:starRating count="114" average="5.00" min="1" max="5"/>
+    <media:statistics views="2076"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GnCuOeoH6GU</id>
+  <yt:videoId>GnCuOeoH6GU</yt:videoId>
+  <yt:channelId>UCUaHJ0fTA-1theR8A8Polmw</yt:channelId>
+  <title>Vrai ou Faux : un smartphone, ça ne se répare pas</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GnCuOeoH6GU"/>
+  <author>
+   <name>Tech &amp; Co</name>
+   <uri>https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw</uri>
+  </author>
+  <published>2022-11-15T20:00:04+00:00</published>
+  <updated>2022-11-15T20:00:05+00:00</updated>
+  <media:group>
+   <media:title>Vrai ou Faux : un smartphone, ça ne se répare pas</media:title>
+   <media:content url="https://www.youtube.com/v/GnCuOeoH6GU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GnCuOeoH6GU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Les journalistes de la rédaction de Tech&amp;Co viennent débunker des idées reçues sur les nouvelles technologies dans Vrai ou Faux. Dans cet épisode, Margaux Vulliet nous parle de la réparabilité des smartphones.</media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="682"/>
+   </media:community>
+  </media:group>
+ </entry>
+<script xmlns="" id="unhook-yt"/><script xmlns="" src="moz-extension://02d3b558-1870-492e-aeb6-e055e7f234f8/player.js"/><link xmlns="" rel="stylesheet" href="moz-extension://02d3b558-1870-492e-aeb6-e055e7f234f8/player.css"/></feed>
